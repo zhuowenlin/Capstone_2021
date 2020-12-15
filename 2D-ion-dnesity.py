@@ -2,7 +2,7 @@
 """
 Created on Tue Aug  1 03:59:17 2017
 
-@author: Pale
+@author: Pale and zwl
 """
 import numpy as np
 import os
